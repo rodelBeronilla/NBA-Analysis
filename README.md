@@ -31,6 +31,36 @@ Overall, this project offers a comprehensive analysis of NBA team performance by
 
 
 ## Future Features
+## Future Updates
+
+### Team Data
+
+- **Update Offense/Defense Rating Calculation:** Revise the methodology for calculating offensive and defensive ratings, including incorporating factors like floor percentage to provide more accurate assessments.
+
+### Player Data
+
+- **Recent Form Analysis:** Implement continuous updates to evaluate team performance based on their last 5-10 games, recalculating after each game to reflect the latest trends.
+- **Head-to-Head Records:** Develop functionality to update head-to-head records against opponents after every game involving the teams in question.
+
+### Game Data
+
+- **Enhanced Player Statistics:** Update player statistics, including Player Efficiency Rating (PER), Win Shares, and Plus/Minus Statistics, after every game to reflect current performance.
+- **Injury Status Monitoring:** Establish a system to check player injury status and history daily, especially close to game time, to account for any changes that may impact gameplay.
+- **Real-time Game Data:** Implement real-time updates for game ID, date and time, venue, referee assignments, team match-up information, and historical game outcomes to provide users with the latest information.
+
+### Advanced Metrics and Analytics
+
+- **Continuous Metric Updates:** Ensure that advanced metrics and analytics are recalculated after every game to incorporate the most current player and team data.
+
+### Contextual and External Factors
+
+- **Dynamic Evaluation of External Factors:** Develop mechanisms to assess contextual and external factors such as travel schedule, rest days, altitude of venue, player trades, and media reports within 24-48 hours before each game to capture their immediate effects.
+- **Weather Condition Monitoring:** Implement checks for weather conditions within 24 hours of each game, especially for outdoor venues or potential travel delays.
+
+### Miscellaneous Data
+
+- **Coaching Staff and Strategy Updates:** Provide regular updates on coaching staff, playoff standings, team strategy, and play types to keep users informed of any changes.
+- **Social Media Sentiment Analysis:** Perform sentiment analysis on social media data 1-2 days before each game to gauge public sentiment and its potential impact on team performance.
 
 ### Enhanced Data Analysis and Prediction
 
@@ -51,4 +81,6 @@ Implement algorithms to profile players based on their playing style, strengths,
 
 #### 6. Adaptive Strategy Recommendation
 Develop algorithms to recommend adaptive strategies based on real-time game dynamics and opponent analysis. These recommendations can assist coaches in optimizing their game plans dynamically throughout the match.
+
+
 
