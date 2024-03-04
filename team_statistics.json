@@ -1,0 +1,80 @@
+{
+    "19": {
+        "get": "teams/statistics",
+        "parameters": {
+            "id": "19",
+            "season": "2023"
+        },
+        "errors": [],
+        "results": 1,
+        "response": [
+            {
+                "games": 66,
+                "fastBreakPoints": 0,
+                "pointsInPaint": 0,
+                "biggestLead": 0,
+                "secondChancePoints": 0,
+                "pointsOffTurnovers": 0,
+                "longestRun": 0,
+                "points": 7047,
+                "fgm": 2551,
+                "fga": 5818,
+                "fgp": "60.8",
+                "ftm": 1055,
+                "fta": 1388,
+                "ftp": "75.7",
+                "tpm": 890,
+                "tpa": 2582,
+                "tpp": "34.5",
+                "offReb": 656,
+                "defReb": 2113,
+                "totReb": 2769,
+                "assists": 1656,
+                "pFouls": 1287,
+                "steals": 525,
+                "turnovers": 994,
+                "blocks": 413,
+                "plusMinus": -415
+            }
+        ]
+    },
+    "4": {
+        "get": "teams/statistics",
+        "parameters": {
+            "id": "4",
+            "season": "2023"
+        },
+        "errors": [],
+        "results": 1,
+        "response": [
+            {
+                "games": 64,
+                "fastBreakPoints": 0,
+                "pointsInPaint": 0,
+                "biggestLead": 0,
+                "secondChancePoints": 0,
+                "pointsOffTurnovers": 0,
+                "longestRun": 0,
+                "points": 7217,
+                "fgm": 2653,
+                "fga": 5785,
+                "fgp": "62.7",
+                "ftm": 1020,
+                "fta": 1340,
+                "ftp": "76.7",
+                "tpm": 891,
+                "tpa": 2404,
+                "tpp": "37.2",
+                "offReb": 737,
+                "defReb": 2117,
+                "totReb": 2854,
+                "assists": 1700,
+                "pFouls": 1222,
+                "steals": 440,
+                "turnovers": 837,
+                "blocks": 332,
+                "plusMinus": -105
+            }
+        ]
+    }
+}

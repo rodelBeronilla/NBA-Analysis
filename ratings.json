@@ -1,0 +1,62 @@
+{
+    "19": {
+        "team_id": 19,
+        "offensive_rating": 230.8,
+        "defensive_rating": 236.6
+    },
+    "4": {
+        "team_id": 4,
+        "offensive_rating": 233.2,
+        "defensive_rating": 234.2
+    },
+    "16": {
+        "team_id": 16,
+        "offensive_rating": 228.6,
+        "defensive_rating": 238.8
+    },
+    "21": {
+        "team_id": 21,
+        "offensive_rating": 230.2,
+        "defensive_rating": 237.2
+    },
+    "29": {
+        "team_id": 29,
+        "offensive_rating": 228.6,
+        "defensive_rating": 238.8
+    },
+    "22": {
+        "team_id": 22,
+        "offensive_rating": 228.6,
+        "defensive_rating": 238.8
+    },
+    "41": {
+        "team_id": 41,
+        "offensive_rating": 228.6,
+        "defensive_rating": 238.8
+    },
+    "40": {
+        "team_id": 40,
+        "offensive_rating": 228.6,
+        "defensive_rating": 238.8
+    },
+    "6": {
+        "team_id": 6,
+        "offensive_rating": 228.6,
+        "defensive_rating": 238.8
+    },
+    "30": {
+        "team_id": 30,
+        "offensive_rating": 228.6,
+        "defensive_rating": 238.8
+    },
+    "25": {
+        "team_id": 25,
+        "offensive_rating": 228.6,
+        "defensive_rating": 238.8
+    },
+    "17": {
+        "team_id": 17,
+        "offensive_rating": 229.2,
+        "defensive_rating": 238.2
+    }
+}

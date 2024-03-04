@@ -1,0 +1,665 @@
+{
+    "19": {
+        "get": "games/",
+        "parameters": {
+            "season": "2023",
+            "team": "19"
+        },
+        "errors": [],
+        "results": 87,
+        "response": [
+            {
+                "id": 12483,
+                "league": "standard",
+                "season": 2023,
+                "date": {
+                    "start": "2023-10-09T00:00:00.000Z",
+                    "end": null,
+                    "duration": null
+                },
+                "stage": 1,
+                "status": {
+                    "clock": null,
+                    "halftime": false,
+                    "short": 3,
+                    "long": "Finished"
+                },
+                "periods": {
+                    "current": 0,
+                    "total": 4,
+                    "endOfPeriod": false
+                },
+                "arena": {
+                    "name": "FedExForum",
+                    "city": "Memphis",
+                    "state": "TN",
+                    "country": null
+                },
+                "teams": {
+                    "visitors": {
+                        "id": 15,
+                        "name": "Indiana Pacers",
+                        "nickname": "Pacers",
+                        "code": "IND",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1180px-Pacers_de_l%27Indiana_logo.svg.png"
+                    },
+                    "home": {
+                        "id": 19,
+                        "name": "Memphis Grizzlies",
+                        "nickname": "Grizzlies",
+                        "code": "MEM",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+                    }
+                },
+                "scores": {
+                    "visitors": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "32",
+                            "27",
+                            "32",
+                            "23",
+                            "8"
+                        ],
+                        "points": 122
+                    },
+                    "home": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "34",
+                            "32",
+                            "25",
+                            "23",
+                            "13"
+                        ],
+                        "points": 127
+                    }
+                },
+                "officials": [],
+                "timesTied": null,
+                "leadChanges": null,
+                "nugget": null
+            },
+            {
+                "id": 12493,
+                "league": "standard",
+                "season": 2023,
+                "date": {
+                    "start": "2023-10-11T00:00:00.000Z",
+                    "end": null,
+                    "duration": null
+                },
+                "stage": 1,
+                "status": {
+                    "clock": null,
+                    "halftime": false,
+                    "short": 3,
+                    "long": "Finished"
+                },
+                "periods": {
+                    "current": 4,
+                    "total": 4,
+                    "endOfPeriod": false
+                },
+                "arena": {
+                    "name": "FedExForum",
+                    "city": "Memphis",
+                    "state": "TN",
+                    "country": null
+                },
+                "teams": {
+                    "visitors": {
+                        "id": 21,
+                        "name": "Milwaukee Bucks",
+                        "nickname": "Bucks",
+                        "code": "MIL",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png"
+                    },
+                    "home": {
+                        "id": 19,
+                        "name": "Memphis Grizzlies",
+                        "nickname": "Grizzlies",
+                        "code": "MEM",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+                    }
+                },
+                "scores": {
+                    "visitors": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "28",
+                            "25",
+                            "18",
+                            "31"
+                        ],
+                        "points": 102
+                    },
+                    "home": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "25",
+                            "26",
+                            "25",
+                            "32"
+                        ],
+                        "points": 108
+                    }
+                },
+                "officials": [],
+                "timesTied": null,
+                "leadChanges": null,
+                "nugget": null
+            },
+            {
+                "id": 12503,
+                "league": "standard",
+                "season": 2023,
+                "date": {
+                    "start": "2023-10-12T23:30:00.000Z",
+                    "end": null,
+                    "duration": null
+                },
+                "stage": 1,
+                "status": {
+                    "clock": null,
+                    "halftime": false,
+                    "short": 3,
+                    "long": "Finished"
+                },
+                "periods": {
+                    "current": 1,
+                    "total": 4,
+                    "endOfPeriod": false
+                },
+                "arena": {
+                    "name": "State Farm Arena",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "country": null
+                },
+                "teams": {
+                    "visitors": {
+                        "id": 19,
+                        "name": "Memphis Grizzlies",
+                        "nickname": "Grizzlies",
+                        "code": "MEM",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+                    },
+                    "home": {
+                        "id": 1,
+                        "name": "Atlanta Hawks",
+                        "nickname": "Hawks",
+                        "code": "ATL",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+                    }
+                },
+                "scores": {
+                    "visitors": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "31",
+                            "19",
+                            "23",
+                            "29"
+                        ],
+                        "points": 102
+                    },
+                    "home": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "29",
+                            "30",
+                            "25",
+                            "19"
+                        ],
+                        "points": 103
+                    }
+                },
+                "officials": [],
+                "timesTied": null,
+                "leadChanges": null,
+                "nugget": null
+            },
+            {
+                "id": 12514,
+                "league": "standard",
+                "season": 2023,
+                "date": {
+                    "start": "2023-10-15T22:00:00.000Z",
+                    "end": null,
+                    "duration": null
+                },
+                "stage": 1,
+                "status": {
+                    "clock": null,
+                    "halftime": false,
+                    "short": 3,
+                    "long": "Finished"
+                },
+                "periods": {
+                    "current": 4,
+                    "total": 4,
+                    "endOfPeriod": false
+                },
+                "arena": {
+                    "name": "Kaseya Center",
+                    "city": "Miami",
+                    "state": "FL",
+                    "country": null
+                },
+                "teams": {
+                    "visitors": {
+                        "id": 19,
+                        "name": "Memphis Grizzlies",
+                        "nickname": "Grizzlies",
+                        "code": "MEM",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+                    },
+                    "home": {
+                        "id": 20,
+                        "name": "Miami Heat",
+                        "nickname": "Heat",
+                        "code": "MIA",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png"
+                    }
+                },
+                "scores": {
+                    "visitors": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "31",
+                            "37",
+                            "33",
+                            "23"
+                        ],
+                        "points": 124
+                    },
+                    "home": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "27",
+                            "31",
+                            "40",
+                            "34"
+                        ],
+                        "points": 132
+                    }
+                },
+                "officials": [],
+                "timesTied": null,
+                "leadChanges": null,
+                "nugget": null
+            },
+            {
+                "id": 12547,
+                "league": "standard",
+                "season": 2023,
+                "date": {
+                    "start": "2023-10-21T00:00:00.000Z",
+                    "end": null,
+                    "duration": null
+                },
+                "stage": 1,
+                "status": {
+                    "clock": null,
+                    "halftime": false,
+                    "short": 3,
+                    "long": "Finished"
+                },
+                "periods": {
+                    "current": 4,
+                    "total": 4,
+                    "endOfPeriod": false
+                },
+                "arena": {
+                    "name": "Fiserv Forum",
+                    "city": "Milwaukee",
+                    "state": "WI",
+                    "country": null
+                },
+                "teams": {
+                    "visitors": {
+                        "id": 19,
+                        "name": "Memphis Grizzlies",
+                        "nickname": "Grizzlies",
+                        "code": "MEM",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+                    },
+                    "home": {
+                        "id": 21,
+                        "name": "Milwaukee Bucks",
+                        "nickname": "Bucks",
+                        "code": "MIL",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png"
+                    }
+                },
+                "scores": {
+                    "visitors": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "23",
+                            "35",
+                            "36",
+                            "22"
+                        ],
+                        "points": 116
+                    },
+                    "home": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "29",
+                            "23",
+                            "33",
+                            "39"
+                        ],
+                        "points": 124
+                    }
+                },
+                "officials": [],
+                "timesTied": null,
+                "leadChanges": null,
+                "nugget": null
+            }]
+    },
+    "4": {
+        "get": "games/",
+        "parameters": {
+            "season": "2023",
+            "team": "4"
+        },
+        "errors": [],
+        "results": 86,
+        "response": [
+            {
+                "id": 12488,
+                "league": "standard",
+                "season": 2023,
+                "date": {
+                    "start": "2023-10-10T01:00:00.000Z",
+                    "end": null,
+                    "duration": null
+                },
+                "stage": 1,
+                "status": {
+                    "clock": null,
+                    "halftime": false,
+                    "short": 3,
+                    "long": "Finished"
+                },
+                "periods": {
+                    "current": 4,
+                    "total": 4,
+                    "endOfPeriod": false
+                },
+                "arena": {
+                    "name": "T-Mobile Arena",
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "country": null
+                },
+                "teams": {
+                    "visitors": {
+                        "id": 4,
+                        "name": "Brooklyn Nets",
+                        "nickname": "Nets",
+                        "code": "BKN",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
+                    },
+                    "home": {
+                        "id": 17,
+                        "name": "Los Angeles Lakers",
+                        "nickname": "Lakers",
+                        "code": "LAL",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png"
+                    }
+                },
+                "scores": {
+                    "visitors": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "35",
+                            "26",
+                            "41",
+                            "24"
+                        ],
+                        "points": 126
+                    },
+                    "home": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "34",
+                            "41",
+                            "35",
+                            "19"
+                        ],
+                        "points": 129
+                    }
+                },
+                "officials": [],
+                "timesTied": null,
+                "leadChanges": null,
+                "nugget": null
+            },
+            {
+                "id": 12504,
+                "league": "standard",
+                "season": 2023,
+                "date": {
+                    "start": "2023-10-12T23:30:00.000Z",
+                    "end": null,
+                    "duration": null
+                },
+                "stage": 1,
+                "status": {
+                    "clock": null,
+                    "halftime": false,
+                    "short": 3,
+                    "long": "Finished"
+                },
+                "periods": {
+                    "current": 1,
+                    "total": 4,
+                    "endOfPeriod": false
+                },
+                "arena": {
+                    "name": "Barclays Center",
+                    "city": "Brooklyn",
+                    "state": "NY",
+                    "country": null
+                },
+                "teams": {
+                    "visitors": {
+                        "id": 165,
+                        "name": "Ra'anana Maccabi Ra'anana",
+                        "nickname": "Maccabi Ra'anana",
+                        "code": "MRA",
+                        "logo": ""
+                    },
+                    "home": {
+                        "id": 4,
+                        "name": "Brooklyn Nets",
+                        "nickname": "Nets",
+                        "code": "BKN",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
+                    }
+                },
+                "scores": {
+                    "visitors": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "39",
+                            "21",
+                            "25",
+                            "18"
+                        ],
+                        "points": 103
+                    },
+                    "home": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "34",
+                            "40",
+                            "30",
+                            "31"
+                        ],
+                        "points": 135
+                    }
+                },
+                "officials": [],
+                "timesTied": null,
+                "leadChanges": null,
+                "nugget": null
+            },
+            {
+                "id": 12521,
+                "league": "standard",
+                "season": 2023,
+                "date": {
+                    "start": "2023-10-16T23:30:00.000Z",
+                    "end": null,
+                    "duration": null
+                },
+                "stage": 1,
+                "status": {
+                    "clock": null,
+                    "halftime": false,
+                    "short": 3,
+                    "long": "Finished"
+                },
+                "periods": {
+                    "current": 4,
+                    "total": 4,
+                    "endOfPeriod": false
+                },
+                "arena": {
+                    "name": "Barclays Center",
+                    "city": "Brooklyn",
+                    "state": "NY",
+                    "country": null
+                },
+                "teams": {
+                    "visitors": {
+                        "id": 27,
+                        "name": "Philadelphia 76ers",
+                        "nickname": "76ers",
+                        "code": "PHI",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/4/48/76ers_2016.png"
+                    },
+                    "home": {
+                        "id": 4,
+                        "name": "Brooklyn Nets",
+                        "nickname": "Nets",
+                        "code": "BKN",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
+                    }
+                },
+                "scores": {
+                    "visitors": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "34",
+                            "34",
+                            "28",
+                            "31"
+                        ],
+                        "points": 127
+                    },
+                    "home": {
+                        "win": 0,
+                        "loss": 0,
+                        "series": {
+                            "win": 0,
+                            "loss": 0
+                        },
+                        "linescore": [
+                            "21",
+                            "30",
+                            "32",
+                            "36"
+                        ],
+                        "points": 119
+                    }
+                },
+                "officials": [],
+                "timesTied": null,
+                "leadChanges": null,
+                "nugget": null
+            }]
+    }
+
+}
