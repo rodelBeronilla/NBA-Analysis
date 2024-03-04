@@ -1,62 +1,62 @@
 {
     "19": {
         "team_id": 19,
-        "offensive_rating": 230.8,
-        "defensive_rating": 236.6
+        "offensive_rating": 991.4157303370787,
+        "defensive_rating": 1023.6966292134831
     },
     "4": {
         "team_id": 4,
-        "offensive_rating": 233.2,
-        "defensive_rating": 234.2
+        "offensive_rating": 997.4719101123595,
+        "defensive_rating": 1017.6404494382023
     },
     "16": {
         "team_id": 16,
-        "offensive_rating": 228.6,
-        "defensive_rating": 238.8
+        "offensive_rating": 998.4606741573034,
+        "defensive_rating": 1016.6516853932584
     },
     "21": {
         "team_id": 21,
-        "offensive_rating": 230.2,
-        "defensive_rating": 237.2
+        "offensive_rating": 998.1573033707865,
+        "defensive_rating": 1016.9550561797753
     },
     "29": {
         "team_id": 29,
-        "offensive_rating": 228.6,
-        "defensive_rating": 238.8
+        "offensive_rating": 993.0449438202247,
+        "defensive_rating": 1022.0674157303371
     },
     "22": {
         "team_id": 22,
-        "offensive_rating": 228.6,
-        "defensive_rating": 238.8
+        "offensive_rating": 1000.0224719101124,
+        "defensive_rating": 1015.0898876404494
     },
     "41": {
         "team_id": 41,
-        "offensive_rating": 228.6,
-        "defensive_rating": 238.8
+        "offensive_rating": 992.5730337078652,
+        "defensive_rating": 1022.5393258426966
     },
     "40": {
         "team_id": 40,
-        "offensive_rating": 228.6,
-        "defensive_rating": 238.8
+        "offensive_rating": 998.2584269662922,
+        "defensive_rating": 1016.8539325842696
     },
     "6": {
         "team_id": 6,
-        "offensive_rating": 228.6,
-        "defensive_rating": 238.8
+        "offensive_rating": 996.1011235955057,
+        "defensive_rating": 1019.0112359550562
     },
     "30": {
         "team_id": 30,
-        "offensive_rating": 228.6,
-        "defensive_rating": 238.8
+        "offensive_rating": 996.4157303370787,
+        "defensive_rating": 1018.6966292134831
     },
     "25": {
         "team_id": 25,
-        "offensive_rating": 228.6,
-        "defensive_rating": 238.8
+        "offensive_rating": 1003.0449438202247,
+        "defensive_rating": 1012.0674157303371
     },
     "17": {
         "team_id": 17,
-        "offensive_rating": 229.2,
-        "defensive_rating": 238.2
+        "offensive_rating": 997.9662921348314,
+        "defensive_rating": 1017.1460674157304
     }
 }

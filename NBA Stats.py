@@ -65,7 +65,16 @@ with open(file_path, 'r') as file:
 
 # Assuming the file 'nba_season_team_ids.json' has been loaded correctly
 # Load the season and team IDs from the JSON file
-	
+
+###
+###
+###
+###
+###
+###	
+
+import time
+
 # Get all Season Games per Team
 with open('nba_season_team_ids.json', 'r') as file:
     data = json.load(file)
@@ -81,10 +90,14 @@ team_ids = [team_id for pair in data['team_ids'] for team_id in pair]  # Flatten
 
 # # Base URL for the API request
 # url = "https://api-nba-v1.p.rapidapi.com/games"
-# print (team_ids)
-# team_ids = 0
+
 # # Initialize a dictionary to store all season games for each team
 # all_season_games = {}
+
+# # Define the rate limit
+# requests_per_minute = 10
+# seconds_per_minute = 60
+# interval = seconds_per_minute / requests_per_minute
 
 # # Iterate through each team ID
 # for team_id in team_ids:
@@ -99,13 +112,22 @@ team_ids = [team_id for pair in data['team_ids'] for team_id in pair]  # Flatten
 #         all_season_games[team_id] = response.json()
 #     else:
 #         print(f"Failed to fetch games for team ID {team_id}: {response.status_code}")
+    
+#     # Pause execution to adhere to the rate limit
+#     time.sleep(interval)
 
 # # Save the fetched all season games to a file for further analysis
 # with open('all_season_games.json', 'w') as outfile:
 #     json.dump(all_season_games, outfile, indent=4)
 
-# print("All season games for each team successfully fetched and saved to all_season_games.json")
 
+# print("All season games for each team successfully fetched and saved to all_season_games.json")
+###
+###
+###
+###
+###
+###
 # Home and Away Records this season
 
 # # Load team information from 'nba_teams_only.json'
@@ -174,9 +196,9 @@ for team_id in team_ids:
     # Iterate through each game in the response
 
     for team in games_data: #keyError: 19
-        print (games_data)
-        for game in games_data[str(team)]["response"][:5]:
-            print(game)
+        # print (games_data)
+        for game in games_data[str(team)]["response"]:
+            # print(game)
             # Extract the scores for the team in the game
             team_scores = game["scores"]["home"] if game["teams"]["home"]["id"] == team_id else game["scores"]["visitors"] #TypeError: string indices must be integers, not 'str'
             
@@ -190,15 +212,16 @@ for team_id in team_ids:
             total_points_allowed += points_allowed
 
         # Calculate Offensive Rating (ORtg) and Defensive Rating (DRtg)
-        offensive_rating = total_points_scored / len(games_data[str(team)]["response"][:5])
-        defensive_rating = total_points_allowed / len(games_data[str(team)]["response"][:5])
+        offensive_rating = total_points_scored / len(games_data[str(team)]["response"])
+        defensive_rating = total_points_allowed / len(games_data[str(team)]["response"])
 
         # Create a dictionary to store the ratings
-        ratings[team_id] = {
-            "team_id": team_id,
-            "offensive_rating": offensive_rating,
-            "defensive_rating": defensive_rating
-        }
+        if (team_id in team_ids):
+            ratings[team_id] = {
+                "team_id": team_id,
+                "offensive_rating": offensive_rating,
+                "defensive_rating": defensive_rating
+            }
 
 # Save the ratings to a file
 with open('ratings.json', 'w') as outfile:
