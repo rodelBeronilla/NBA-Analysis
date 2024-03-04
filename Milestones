@@ -1,61 +1,63 @@
 - Milestone 1: Data Collection and Initial Processing
   - Title: Basic Data Collection and Initial Processing
-  - Due Date: May 15, 2024
+  - Due Date: May 4, 2024
   - Description:
-    -- Objective: Begin with collecting NBA data using simple API requests and perform basic data preprocessing.
-    -- Start Date: March 25, 2024
-    -- Duration: 1.5 months
+    -- Objective: Start collecting NBA data and perform basic preprocessing.
+    -- Start Date: March 4, 2024
+    -- Duration: 2 months
     -- Tasks:
-      --- Learn to make API requests to the NBA API.
+      --- Learn to use the NBA API for data retrieval.
       --- Collect schedule data, team records, and basic player statistics.
-      --- Perform initial preprocessing to clean and organize the data.
-    -- Completion Criteria: A structured dataset ready for further analysis.
+      --- Perform initial data cleaning and organization.
+    -- Completion Criteria: Structured dataset ready for analysis.
 
-- Milestone 2: Exploratory Data Analysis and Learning Advanced Features
+- Milestone 2: Exploratory Data Analysis and Skill Enhancement
   - Title: Exploratory Data Analysis and Skill Enhancement
-  - Due Date: July 31, 2024
+  - Due Date: August 4, 2024
   - Description:
-    -- Objective: Conduct exploratory data analysis (EDA) to identify trends and insights. Parallelly, enhance Python skills focusing on data analysis libraries.
-    -- Start Date: May 16, 2024
-    -- Duration: 2.5 months
+    -- Objective: Analyze collected data, gain insights, and enhance Python skills.
+    -- Start Date: May 4, 2024
+    -- Duration: 3 months
     -- Tasks:
-      --- Undertake online courses or tutorials to improve Python data analysis skills.
-      --- Apply new skills to perform EDA on collected NBA data.
-    -- Completion Criteria: Completed EDA with documented insights and improved Python capabilities.
+      --- Conduct exploratory data analysis on NBA dataset.
+      --- Improve Python skills through online resources or courses.
+      --- Apply new skills to further analyze the data.
+    -- Completion Criteria: Documented insights and improved Python proficiency.
 
 - Milestone 3: Basic Predictive Modeling and Visualization
   - Title: Introduction to Predictive Modeling and Visualization
-  - Due Date: October 15, 2024
+  - Due Date: December 4, 2024
   - Description:
-    -- Objective: Develop basic predictive models for game outcomes and player performance. Create simple visualizations to represent findings.
-    -- Start Date: August 1, 2024
-    -- Duration: 2.5 months
+    -- Objective: Develop basic predictive models and create visualizations.
+    -- Start Date: September 4, 2024
+    -- Duration: 3 months
     -- Tasks:
-      --- Learn basic predictive modeling techniques and visualization with Python.
-      --- Apply learned techniques to create models and visualize NBA data insights.
-    -- Completion Criteria: Developed basic predictive models and visualizations of the analysis.
+      --- Learn basic predictive modeling techniques.
+      --- Develop and validate basic predictive models.
+      --- Create visualizations to represent insights.
+    -- Completion Criteria: Basic predictive models and visualizations completed.
 
 - Milestone 4: Integration of Real-time Data and Social Media Analysis
-  - Title: Real-time Data Integration and Introduction to Social Media Analysis
-  - Due Date: December 31, 2024
+  - Title: Real-time Data Integration and Social Media Analysis
+  - Due Date: March 4, 2025
   - Description:
-    -- Objective: Begin integrating real-time data for analysis and explore basic social media sentiment analysis related to NBA teams and players.
-    -- Start Date: October 16, 2024
-    -- Duration: 2.5 months
+    -- Objective: Integrate real-time data analysis and explore social media sentiment.
+    -- Start Date: December 4, 2024
+    -- Duration: 3 months
     -- Tasks:
-      --- Experiment with real-time data feeds for NBA games.
-      --- Learn and apply basic sentiment analysis on social media data.
-    -- Completion Criteria: Integrated real-time NBA data and conducted preliminary social media sentiment analysis.
+      --- Experiment with integrating real-time data feeds.
+      --- Perform basic sentiment analysis on social media data.
+    -- Completion Criteria: Integrated real-time data analysis and conducted preliminary social media sentiment analysis.
 
 - Milestone 5: Documentation, Review, and Planning for Future Learning
-  - Title: Final Documentation, Project Review, and Future Learning Plan
-  - Due Date: February 28, 2025
+  - Title: Final Documentation and Future Learning Plan
+  - Due Date: June 4, 2025
   - Description:
-    -- Objective: Document the project comprehensively, review the learning journey, and outline future learning paths for more advanced topics.
-    -- Start Date: January 1, 2025
-    -- Duration: 2 months
+    -- Objective: Document the project, review progress, and plan future learning.
+    -- Start Date: March 4, 2025
+    -- Duration: 3 months
     -- Tasks:
-      --- Document the project's process, findings, and code.
-      --- Reflect on the learning journey and identify areas for future improvement.
-      --- Plan future learning goals, including more advanced data analysis, machine learning, and real-time data processing.
-    -- Completion Criteria: Well-documented project, a reflective review of the learning journey, and a structured plan for future skill development.
+      --- Document project process, findings, and code.
+      --- Reflect on the learning journey and identify areas for improvement.
+      --- Plan future learning goals.
+    -- Completion Criteria: Well-documented project, reflective review, and structured learning plan.
