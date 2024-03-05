@@ -61,7 +61,7 @@ Overall, this project offers a comprehensive analysis of NBA team performance by
 
 - **Coaching Staff and Strategy Updates:** Provide regular updates on coaching staff, playoff standings, team strategy, and play types to keep users informed of any changes.
 - **Social Media Sentiment Analysis:** Perform sentiment analysis on social media data 1-2 days before each game to gauge public sentiment and its potential impact on team performance.
-- 
+  
 ## Future Features
 ### Enhanced Data Analysis and Prediction
 
