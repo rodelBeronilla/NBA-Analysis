@@ -1,0 +1,300 @@
+{
+    "get": "games/",
+    "parameters": {
+        "date": "2024-03-18"
+    },
+    "errors": [],
+    "results": 4,
+    "response": [
+        {
+            "id": 13530,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-18T01:30:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "crypto.com Arena",
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 1,
+                    "name": "Atlanta Hawks",
+                    "nickname": "Hawks",
+                    "code": "ATL",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+                },
+                "home": {
+                    "id": 16,
+                    "name": "LA Clippers",
+                    "nickname": "Clippers",
+                    "code": "LAC",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": 0,
+                    "loss": 0,
+                    "series": {
+                        "win": 0,
+                        "loss": 0
+                    },
+                    "linescore": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "points": null
+                },
+                "home": {
+                    "win": 0,
+                    "loss": 0,
+                    "series": {
+                        "win": 0,
+                        "loss": 0
+                    },
+                    "linescore": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 13531,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-18T23:00:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "Gainbridge Fieldhouse",
+                "city": "Indianapolis",
+                "state": "IN",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 7,
+                    "name": "Cleveland Cavaliers",
+                    "nickname": "Cavaliers",
+                    "code": "CLE",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Cavs_de_Cleveland_logo_2017.png/150px-Cavs_de_Cleveland_logo_2017.png"
+                },
+                "home": {
+                    "id": 15,
+                    "name": "Indiana Pacers",
+                    "nickname": "Pacers",
+                    "code": "IND",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1180px-Pacers_de_l%27Indiana_logo.svg.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 13532,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-18T23:30:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "TD Garden",
+                "city": "Boston",
+                "state": "MA",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 10,
+                    "name": "Detroit Pistons",
+                    "nickname": "Pistons",
+                    "code": "DET",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_of_the_Detroit_Pistons.png/300px-Logo_of_the_Detroit_Pistons.png"
+                },
+                "home": {
+                    "id": 2,
+                    "name": "Boston Celtics",
+                    "nickname": "Celtics",
+                    "code": "BOS",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 13533,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-18T23:30:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "Wells Fargo Center",
+                "city": "Philadelphia",
+                "state": "PA",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 20,
+                    "name": "Miami Heat",
+                    "nickname": "Heat",
+                    "code": "MIA",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png"
+                },
+                "home": {
+                    "id": 27,
+                    "name": "Philadelphia 76ers",
+                    "nickname": "76ers",
+                    "code": "PHI",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/4/48/76ers_2016.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        }
+    ]
+}

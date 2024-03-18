@@ -2,3 +2,15 @@ https://rapidapi.com/api-sports/api/api-nba
 https://www.api-basketball.com/documentation
 https://docs.balldontlie.io/
 https://www.thesportsdb.com
+
+Comprehensive List of Resources for NBA Prediction Models
+
+1. Title: Hybrid Basketball Game Outcome Prediction Model by Integrating Data Mining Methods for the National Basketball Association
+   Description: This study introduces a hybrid model for predicting NBA game outcomes using data mining techniques such as extreme learning machine, multivariate adaptive regression splines, k-nearest neighbors, XGBoost, and stochastic gradient boosting.
+   Link: https://www.mdpi.com/1099-4300/23/4/477
+
+2. Title: Machine Learning and the NBA Game
+   Description: Discusses the use of machine learning, neural networks, and expert systems in modeling scoring probabilities in basketball, particularly under high-pressure conditions.
+   Link: https://www.researchgate.net/publication/319193973_Machine_learning_and_the_NBA_Game
+
+Note: For detailed methodologies, models, and analytical approaches, it's recommended to refer directly to the provided links and the full articles.

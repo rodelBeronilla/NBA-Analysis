@@ -1,0 +1,570 @@
+{
+    "get": "games/",
+    "parameters": {
+        "date": "2024-03-19"
+    },
+    "errors": [],
+    "results": 8,
+    "response": [
+        {
+            "id": 13534,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-19T00:00:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "United Center",
+                "city": "Chicago",
+                "state": "IL",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 29,
+                    "name": "Portland Trail Blazers",
+                    "nickname": "Trail Blazers",
+                    "code": "POR",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png"
+                },
+                "home": {
+                    "id": 6,
+                    "name": "Chicago Bulls",
+                    "nickname": "Bulls",
+                    "code": "CHI",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 13535,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-19T01:00:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "Delta Center",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 22,
+                    "name": "Minnesota Timberwolves",
+                    "nickname": "Timberwolves",
+                    "code": "MIN",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/200px-Timberwolves_du_Minnesota_logo_2017.png"
+                },
+                "home": {
+                    "id": 40,
+                    "name": "Utah Jazz",
+                    "nickname": "Jazz",
+                    "code": "UTA",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 13536,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-19T02:00:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "Chase Center",
+                "city": "San Francisco",
+                "state": "CA",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 24,
+                    "name": "New York Knicks",
+                    "nickname": "Knicks",
+                    "code": "NYK",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Knicks_de_NY.png"
+                },
+                "home": {
+                    "id": 11,
+                    "name": "Golden State Warriors",
+                    "nickname": "Warriors",
+                    "code": "GSW",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Warriors_de_Golden_State_logo.svg/1200px-Warriors_de_Golden_State_logo.svg.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 13537,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-19T02:00:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "Golden 1 Center",
+                "city": "Sacramento",
+                "state": "CA",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 19,
+                    "name": "Memphis Grizzlies",
+                    "nickname": "Grizzlies",
+                    "code": "MEM",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+                },
+                "home": {
+                    "id": 30,
+                    "name": "Sacramento Kings",
+                    "nickname": "Kings",
+                    "code": "SAC",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 13538,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-19T02:30:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "crypto.com Arena",
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 1,
+                    "name": "Atlanta Hawks",
+                    "nickname": "Hawks",
+                    "code": "ATL",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+                },
+                "home": {
+                    "id": 17,
+                    "name": "Los Angeles Lakers",
+                    "nickname": "Lakers",
+                    "code": "LAL",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 13539,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-19T23:00:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "Amway Center",
+                "city": "Orlando",
+                "state": "FL",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 5,
+                    "name": "Charlotte Hornets",
+                    "nickname": "Hornets",
+                    "code": "CHA",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1200px-Hornets_de_Charlotte_logo.svg.png"
+                },
+                "home": {
+                    "id": 26,
+                    "name": "Orlando Magic",
+                    "nickname": "Magic",
+                    "code": "ORL",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 13540,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-19T23:00:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "Capital One Arena",
+                "city": "Washington",
+                "state": "DC",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 14,
+                    "name": "Houston Rockets",
+                    "nickname": "Rockets",
+                    "code": "HOU",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Houston_Rockets_logo_2003.png/330px-Houston_Rockets_logo_2003.png"
+                },
+                "home": {
+                    "id": 41,
+                    "name": "Washington Wizards",
+                    "nickname": "Wizards",
+                    "code": "WAS",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/archive/d/d6/20161212034849%21Wizards2015.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 13541,
+            "league": "standard",
+            "season": 2023,
+            "date": {
+                "start": "2024-03-19T23:30:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 2,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "Barclays Center",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 23,
+                    "name": "New Orleans Pelicans",
+                    "nickname": "Pelicans",
+                    "code": "NOP",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/New_Orleans_Pelicans.png/200px-New_Orleans_Pelicans.png"
+                },
+                "home": {
+                    "id": 4,
+                    "name": "Brooklyn Nets",
+                    "nickname": "Nets",
+                    "code": "BKN",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        }
+    ]
+}

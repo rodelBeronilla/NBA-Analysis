@@ -1,0 +1,423 @@
+{
+	"get": "games\/",
+	"parameters": {
+		"date": "2024-03-05"
+	},
+	"errors": [],
+	"results": 6,
+	"response": [{
+		"id": 13427,
+		"league": "standard",
+		"season": 2023,
+		"date": {
+			"start": "2024-03-05T00:30:00.000Z",
+			"end": null,
+			"duration": null
+		},
+		"stage": 2,
+		"status": {
+			"clock": null,
+			"halftime": false,
+			"short": 1,
+			"long": "Scheduled"
+		},
+		"periods": {
+			"current": 0,
+			"total": 4,
+			"endOfPeriod": false
+		},
+		"arena": {
+			"name": "Barclays Center",
+			"city": "Brooklyn",
+			"state": "NY",
+			"country": null
+		},
+		"teams": {
+			"visitors": {
+				"id": 19,
+				"name": "Memphis Grizzlies",
+				"nickname": "Grizzlies",
+				"code": "MEM",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f1\/Memphis_Grizzlies.svg\/1200px-Memphis_Grizzlies.svg.png"
+			},
+			"home": {
+				"id": 4,
+				"name": "Brooklyn Nets",
+				"nickname": "Nets",
+				"code": "BKN",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/44\/Brooklyn_Nets_newlogo.svg\/130px-Brooklyn_Nets_newlogo.svg.png"
+			}
+		},
+		"scores": {
+			"visitors": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			},
+			"home": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			}
+		},
+		"officials": [],
+		"timesTied": null,
+		"leadChanges": null,
+		"nugget": null
+	}, {
+		"id": 13428,
+		"league": "standard",
+		"season": 2023,
+		"date": {
+			"start": "2024-03-05T01:00:00.000Z",
+			"end": null,
+			"duration": null
+		},
+		"stage": 2,
+		"status": {
+			"clock": null,
+			"halftime": false,
+			"short": 1,
+			"long": "Scheduled"
+		},
+		"periods": {
+			"current": 0,
+			"total": 4,
+			"endOfPeriod": false
+		},
+		"arena": {
+			"name": "Fiserv Forum",
+			"city": "Milwaukee",
+			"state": "WI",
+			"country": null
+		},
+		"teams": {
+			"visitors": {
+				"id": 16,
+				"name": "LA Clippers",
+				"nickname": "Clippers",
+				"code": "LAC",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/fr\/d\/d6\/Los_Angeles_Clippers_logo_2010.png"
+			},
+			"home": {
+				"id": 21,
+				"name": "Milwaukee Bucks",
+				"nickname": "Bucks",
+				"code": "MIL",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/fr\/3\/34\/Bucks2015.png"
+			}
+		},
+		"scores": {
+			"visitors": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			},
+			"home": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			}
+		},
+		"officials": [],
+		"timesTied": null,
+		"leadChanges": null,
+		"nugget": null
+	}, {
+		"id": 13429,
+		"league": "standard",
+		"season": 2023,
+		"date": {
+			"start": "2024-03-05T01:00:00.000Z",
+			"end": null,
+			"duration": null
+		},
+		"stage": 2,
+		"status": {
+			"clock": null,
+			"halftime": false,
+			"short": 1,
+			"long": "Scheduled"
+		},
+		"periods": {
+			"current": 0,
+			"total": 4,
+			"endOfPeriod": false
+		},
+		"arena": {
+			"name": "Target Center",
+			"city": "Minneapolis",
+			"state": "MN",
+			"country": null
+		},
+		"teams": {
+			"visitors": {
+				"id": 29,
+				"name": "Portland Trail Blazers",
+				"nickname": "Trail Blazers",
+				"code": "POR",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/2\/21\/Portland_Trail_Blazers_logo.svg\/1200px-Portland_Trail_Blazers_logo.svg.png"
+			},
+			"home": {
+				"id": 22,
+				"name": "Minnesota Timberwolves",
+				"nickname": "Timberwolves",
+				"code": "MIN",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/fr\/thumb\/d\/d9\/Timberwolves_du_Minnesota_logo_2017.png\/200px-Timberwolves_du_Minnesota_logo_2017.png"
+			}
+		},
+		"scores": {
+			"visitors": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			},
+			"home": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			}
+		},
+		"officials": [],
+		"timesTied": null,
+		"leadChanges": null,
+		"nugget": null
+	}, {
+		"id": 13430,
+		"league": "standard",
+		"season": 2023,
+		"date": {
+			"start": "2024-03-05T02:00:00.000Z",
+			"end": null,
+			"duration": null
+		},
+		"stage": 2,
+		"status": {
+			"clock": null,
+			"halftime": false,
+			"short": 1,
+			"long": "Scheduled"
+		},
+		"periods": {
+			"current": 0,
+			"total": 4,
+			"endOfPeriod": false
+		},
+		"arena": {
+			"name": "Delta Center",
+			"city": "Salt Lake City",
+			"state": "UT",
+			"country": null
+		},
+		"teams": {
+			"visitors": {
+				"id": 41,
+				"name": "Washington Wizards",
+				"nickname": "Wizards",
+				"code": "WAS",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/fr\/archive\/d\/d6\/20161212034849%21Wizards2015.png"
+			},
+			"home": {
+				"id": 40,
+				"name": "Utah Jazz",
+				"nickname": "Jazz",
+				"code": "UTA",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/fr\/3\/3b\/Jazz_de_l%27Utah_logo.png"
+			}
+		},
+		"scores": {
+			"visitors": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			},
+			"home": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			}
+		},
+		"officials": [],
+		"timesTied": null,
+		"leadChanges": null,
+		"nugget": null
+	}, {
+		"id": 13431,
+		"league": "standard",
+		"season": 2023,
+		"date": {
+			"start": "2024-03-05T03:00:00.000Z",
+			"end": null,
+			"duration": null
+		},
+		"stage": 2,
+		"status": {
+			"clock": null,
+			"halftime": false,
+			"short": 1,
+			"long": "Scheduled"
+		},
+		"periods": {
+			"current": 0,
+			"total": 4,
+			"endOfPeriod": false
+		},
+		"arena": {
+			"name": "Golden 1 Center",
+			"city": "Sacramento",
+			"state": "CA",
+			"country": null
+		},
+		"teams": {
+			"visitors": {
+				"id": 6,
+				"name": "Chicago Bulls",
+				"nickname": "Bulls",
+				"code": "CHI",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/fr\/thumb\/d\/d1\/Bulls_de_Chicago_logo.svg\/1200px-Bulls_de_Chicago_logo.svg.png"
+			},
+			"home": {
+				"id": 30,
+				"name": "Sacramento Kings",
+				"nickname": "Kings",
+				"code": "SAC",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/fr\/thumb\/9\/95\/Kings_de_Sacramento_logo.svg\/1200px-Kings_de_Sacramento_logo.svg.png"
+			}
+		},
+		"scores": {
+			"visitors": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			},
+			"home": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			}
+		},
+		"officials": [],
+		"timesTied": null,
+		"leadChanges": null,
+		"nugget": null
+	}, {
+		"id": 13432,
+		"league": "standard",
+		"season": 2023,
+		"date": {
+			"start": "2024-03-05T03:30:00.000Z",
+			"end": null,
+			"duration": null
+		},
+		"stage": 2,
+		"status": {
+			"clock": null,
+			"halftime": false,
+			"short": 1,
+			"long": "Scheduled"
+		},
+		"periods": {
+			"current": 0,
+			"total": 4,
+			"endOfPeriod": false
+		},
+		"arena": {
+			"name": "crypto.com Arena",
+			"city": "Los Angeles",
+			"state": "CA",
+			"country": null
+		},
+		"teams": {
+			"visitors": {
+				"id": 25,
+				"name": "Oklahoma City Thunder",
+				"nickname": "Thunder",
+				"code": "OKC",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/fr\/thumb\/4\/4f\/Thunder_d%27Oklahoma_City_logo.svg\/1200px-Thunder_d%27Oklahoma_City_logo.svg.png"
+			},
+			"home": {
+				"id": 17,
+				"name": "Los Angeles Lakers",
+				"nickname": "Lakers",
+				"code": "LAL",
+				"logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3c\/Los_Angeles_Lakers_logo.svg\/220px-Los_Angeles_Lakers_logo.svg.png"
+			}
+		},
+		"scores": {
+			"visitors": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			},
+			"home": {
+				"win": null,
+				"loss": null,
+				"series": {
+					"win": null,
+					"loss": null
+				},
+				"linescore": [],
+				"points": null
+			}
+		},
+		"officials": [],
+		"timesTied": null,
+		"leadChanges": null,
+		"nugget": null
+	}]
+}

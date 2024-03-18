@@ -1,0 +1,93 @@
+{
+    "season": 2023,
+    "game_details": {
+        "13531": {
+            "start_time": "2024-03-18T19:00:00.000Z",
+            "visitor": {
+                "id": 7,
+                "name": "Cleveland Cavaliers"
+            },
+            "home": {
+                "id": 15,
+                "name": "Indiana Pacers"
+            }
+        },
+        "13532": {
+            "start_time": "2024-03-18T19:30:00.000Z",
+            "visitor": {
+                "id": 10,
+                "name": "Detroit Pistons"
+            },
+            "home": {
+                "id": 2,
+                "name": "Boston Celtics"
+            }
+        },
+        "13533": {
+            "start_time": "2024-03-18T19:30:00.000Z",
+            "visitor": {
+                "id": 20,
+                "name": "Miami Heat"
+            },
+            "home": {
+                "id": 27,
+                "name": "Philadelphia 76ers"
+            }
+        },
+        "13534": {
+            "start_time": "2024-03-18T20:00:00.000Z",
+            "visitor": {
+                "id": 29,
+                "name": "Portland Trail Blazers"
+            },
+            "home": {
+                "id": 6,
+                "name": "Chicago Bulls"
+            }
+        },
+        "13535": {
+            "start_time": "2024-03-18T21:00:00.000Z",
+            "visitor": {
+                "id": 22,
+                "name": "Minnesota Timberwolves"
+            },
+            "home": {
+                "id": 40,
+                "name": "Utah Jazz"
+            }
+        },
+        "13536": {
+            "start_time": "2024-03-18T22:00:00.000Z",
+            "visitor": {
+                "id": 24,
+                "name": "New York Knicks"
+            },
+            "home": {
+                "id": 11,
+                "name": "Golden State Warriors"
+            }
+        },
+        "13537": {
+            "start_time": "2024-03-18T22:00:00.000Z",
+            "visitor": {
+                "id": 19,
+                "name": "Memphis Grizzlies"
+            },
+            "home": {
+                "id": 30,
+                "name": "Sacramento Kings"
+            }
+        },
+        "13538": {
+            "start_time": "2024-03-18T22:30:00.000Z",
+            "visitor": {
+                "id": 1,
+                "name": "Atlanta Hawks"
+            },
+            "home": {
+                "id": 17,
+                "name": "Los Angeles Lakers"
+            }
+        }
+    }
+}
